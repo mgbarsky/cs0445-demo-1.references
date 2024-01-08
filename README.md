@@ -1,2 +1,2 @@
-# cs0445-demo-1.references
-Demo code for Lecture 1: Reference variables
+# CS 0445 S2024 Lecture 1
+## Demo code for: Reference variables
